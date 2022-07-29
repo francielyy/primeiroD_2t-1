@@ -1,6 +1,24 @@
 body {
-  background: pink;
+  background: #AF3693;
 }
 h1 {
   text-align: center;
+}
+.caixa1 {
+  position: absolute;
+  background: #724DEE;
+  color: #FFFFFF;
+   width: 200px;
+   height: 200px;
+   right: 0;
+   top: 0;
+}
+.caixa2 {
+  position: absolute;
+  background: #EE4DC8;
+  color : #FFFFFF;
+  width: 200px;
+  height: 200px;
+  right: 200px;
+  top: 0;
 }
