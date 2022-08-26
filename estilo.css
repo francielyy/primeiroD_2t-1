@@ -110,7 +110,7 @@ li a:hover {
    image-orientation: center;
 }
 .rodape {
-   position: absolute;
+   position: relative;
    bottom: 0%;
    width: 100%;
    height: 50px;
@@ -126,5 +126,23 @@ li a:hover {
    position: absolute;
    top: 45px;
    font-size: 25px;
-   font-family: /* COMBAK:  */;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+.CaixaWhatsApp {
+  position: absolute;
+   top: 50px;
+   left: 0;
+   width: 90%;
+   height: 150px;
+   background:rgb(109, 163, 219);
+   margin: 20px;
+   border-color: rgb(107, 146, 195);
+   border-width: 20px;
+   border-style: solid;
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+   image-orientation: center;
+
+}
+
